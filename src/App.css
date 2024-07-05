@@ -1,0 +1,13 @@
+.button:hover{
+    background-color: aqua;
+}
+
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+}
